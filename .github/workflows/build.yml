@@ -27,6 +27,7 @@ on:
   push:
     branches:
       - main
+      - test
     paths-ignore:
       - "doc/**"
       - "**/README.md"
